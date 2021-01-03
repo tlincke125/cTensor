@@ -2,8 +2,13 @@ The commit I ended with my freshman year was
 
 bec25956f29d337cbd73be16f7f6ca5c4825abae (stored on branch cTensor_beta)
 
-This is the commit that contained a "working" neural network - just wasn't very good or universal, and required opencv for opening images. I removed the Opencv dependency (because all of the linear algebra factorizations and operations were written by me).
+This is the commit that contained a "working" neural network - just wasn't very good. In fact the math was pretty much just completely wrong.
 
 This is now a wip - updated readme to come. I've learned a lot about better software development and I want to impliment those changes and make this more extensible.
+
+
+I'm working on the math currently - located in the python folder. This is an experimental script that I've been changing. It doesn't contain everything I've done.
+
+See https://tlincke125.github.io/nonlinear/ctensor/2020/12/31/cTensor.html for a description of the project I am starting over on.
 
 To see the most recently updated version - visit the branch **ctensor\_version2**
